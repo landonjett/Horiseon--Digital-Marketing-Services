@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav { /* changed div to nav to match html file */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul { /* changed div to nav to match html file */
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li { /* changed div to nav to match html file */
     display: inline-block;
     margin-left: 25px;
 }
