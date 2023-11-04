@@ -21,6 +21,8 @@ Here is a screenshot of the webpage as it is intended to be viewed.
 
 ![this is a screenshot showing the look of the page](assets/images/Horiseon--Digital-Marketing-Services.png)
 
+Here is a link to the page - https://landonjett.github.io/Horiseon--Digital-Marketing-Services/
+
 ## Credits
 
 HTML Semantic elements:
